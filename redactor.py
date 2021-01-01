@@ -99,7 +99,7 @@ def main():
         st.subheader("Sobre")
         st.markdown("**Autor:** José Filipe S de Andrade")
         st.markdown("**Aplicativo baseado em:**"'[ Canal J-sec](https://www.youtube.com/watch?v=y1UNZZwB5FA&list=PLJ39kWiJXSixyRMcn3lrbv8xI8ZZoYNZU&index=12)',False)
-        st.markdown("**Repositório: **""[Github]()",False)
+        st.markdown("**Repositório: **""[Github](https://github.com/JoseFilipe-4ndrade/redactor)",False)
     
 if __name__ == '__main__':
     main()
